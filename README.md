@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy Rodolfo</h1>
 <h3 align="center">Soy fullstack developer y lucho día a día para mantenerme vivo en el mundo tecnológico</h3>
 
-- 👨‍💻 Puedes ver mi portfolio en <a href="https://rgsenaportfolio.netlify.app/" target="blank"></a>
+- 👨‍💻 Puedes ver mi portfolio en <a href="https://rgsenaportfolio.netlify.app/" target="blank"> Aquí </a>
 
 - 📫 Contacto **senarodo@gmail.com**
 
