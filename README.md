@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy Rodolfo</h1>
 <h3 align="center">Soy fullstack developer y lucho día a día para mantenerme vivo en el mundo tecnológico</h3>
 
-- 👨‍💻 Puedes ver mis portfolio en [⛔ "Cerrado por obras de remodelación"](⛔ "Cerrado por obras de remodelación")
+- 👨‍💻 Puedes ver mi portfolio en [⛔ "Cerrado por obras de remodelación"](⛔ "Cerrado por obras de remodelación")
 
 - 📫 Contacto **senarodo@gmail.com**
 
