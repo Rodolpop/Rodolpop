@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, Soy Rodolfo</h1>
 <h3 align="center">Soy fullstack developer y lucho día a día para mantenerme vivo en el mundo tecnológico</h3>
 
-- 👨‍💻 Puedes ver mi portfolio en <a href="https://rgsenaportfolio.netlify.app/" target="blank"> Aquí </a>
+- 👨‍💻 Puedes ver mis humildes trabajos <a href="https://rgsenaportfolio.netlify.app/" target="blank"> Aquí </a>
 
 - 📫 Contacto **senarodo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/r-sena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-sena/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/r-sena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-sena/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
